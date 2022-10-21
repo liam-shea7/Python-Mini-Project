@@ -1,1 +1,2 @@
 # Python-Mini-Project
+This coffee shop point of sales program features a looped main menu with four different inputs the user can choose from. The user can either write in one of the beverages displayed on the menu, press 'o' for order details, 'c' to checkout or 'x' to exit the program. The program is built using varying data types including integers, decimals, lists, constant variables. It also uses loops and conditional statements to meet requirements.
